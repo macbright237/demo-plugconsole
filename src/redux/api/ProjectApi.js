@@ -1,4 +1,4 @@
-const baseURL = "http://localhost:8000"
+const baseURL = "http://democonsole.primusplug.io"
 
 const projectApi = {
   addTask: async (body) => {
