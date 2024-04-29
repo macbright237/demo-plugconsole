@@ -86,7 +86,7 @@ const Login = () => {
         <div className='flex flex-col gap-6 items-center justify-center mx-6 w-[90%] sm:w-[75%] max-w-[700px] flex-grow'>
 
           <img src={logo} alt='' className='w-[120px]' />
-          <h2 className='text-[#0A3CB1] md:text-5xl text-3xl font-[300] text-center'>WELCOME BACK</h2>
+          <h2 className='text-[#0A3CB1] md:text-5xl text-3xl font-[300] text-center'>WELCOME BACK PL</h2>
           <div className='self-start'>
             <p className='font-[300]'>Welcome to our login page. Please enter your login details below to access your account.</p>
           </div>
